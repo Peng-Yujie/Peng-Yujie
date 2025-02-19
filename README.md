@@ -1,10 +1,11 @@
 ## Hi there 🍉
 
-I'm Yujie, a passionate CS student at Langara College.
+👋 Hi! I'm **Yujie**, a passionate Full Stack Developer with a love for building **scalable, AI-Powered web applications**.
 
-- 👨‍💻 Have a diverse skill set, ranging from **web development** to **database** management
-- 🎓 Master Degree in **Journalism and Communication**
-- 🧳 5 years of experience in **Marketing** and **E-Commerce**
+- 👨‍💻 Experienced in modern stacks like **React, Next.js, and cloud infrastructure**.
+- 🧠 Created an **AI-Powered Chrome extension** for auto-grading with local LLM integration.
+- 💼 From **Marketing** to **Full-Stack Dev**, I’ve learned that great code solves real problems.
+- 🐈‍⬛🐈 Code with two cats, despite being allergic to them.
 
 ### ⌨️ My Skills
 
